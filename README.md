@@ -1,1 +1,1 @@
-https://mysterious-falls-65112.herokuapp.com/api/persons
+https://mysterious-falls-65112.herokuapp.com
